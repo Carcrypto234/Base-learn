@@ -1,0 +1,3 @@
+Base chain on his blog, now only on github, give a very detailed tutorial and very easy one to folow using the remix tool, and very automatized engine for doing all the tasks.
+Just for testing purpose i deployed one contract doing this manually inside an ubuntu 22.04 systeam, you can check righ here the contract deployed, remembering that all of this was done inside of base sepolia
+In mainnet is the same process and everything is the same , just changing the amount of gas ussage.
