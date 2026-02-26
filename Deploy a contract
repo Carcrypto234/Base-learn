@@ -1,3 +1,9 @@
-Base chain on his blog, now only on github, give a very detailed tutorial and very easy one to folow using the remix tool, and very automatized engine for doing all the tasks.
-Just for testing purpose i deployed one contract doing this manually inside an ubuntu 22.04 systeam, you can check righ here the contract deployed, remembering that all of this was done inside of base sepolia
+Base chain has updtaed his blog and remove the Base learn docs, now only on github this is available,so I'm going to create a documentation about my old process doing this, based on the base learn docs 
+First using Remix tool to make the tasks make everything easy one to folow and very automatized engine for doing all the tasks. And don't require a lot of knoladge inside coding 
+Just for testing purpose i deployed one contract doing this manually inside an ubuntu 22.04 systeam,using Foundry and you can follow how to do this here https://docs.base.org/base-chain/quickstart/deploy-on-base 
+The rest of the process about the basic base learn process is done inside sepolia mainnet and you can add the chain using chainlist (always check to oficial website)
 In mainnet is the same process and everything is the same , just changing the amount of gas ussage.
+To deploy using remix , just conect your wallet inside the plataform using the deploy and run transaction tool, conecting you wallet inside Enviroment and browser extension and selecting your wallet provider. Most people use metamask and rabby
+After pasting your own coding you just run the deploy and they will give you the contract very automatic way of doing this 
+Righ here you can check the smart contract that i depoyed inside of sepolia https://sepolia.basescan.org/address/0x84df443b26a5da5d24546d101f26c4d3a88665c9
+Also you can go ahead and check contrat information for Contract Source Code and solidity informations of the deployed method
