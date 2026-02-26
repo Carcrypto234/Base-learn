@@ -1,4 +1,5 @@
 # Base-learn
+Base learn documentation and process of deployng and learning everything about smart contract deployment inside base sepolia testnet
 # Base Learn – Base Journey
 
 This repository documents my learning journey through Base Learn,
